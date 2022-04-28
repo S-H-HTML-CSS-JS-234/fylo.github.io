@@ -62,7 +62,7 @@ nav{
 }
 .top_btn{
     width: 70%;
-    padding: 2rem;
+    padding: 1rem;
     background-color: hsl(176, 68%, 64%);
     margin: 3.5rem auto;
     border-radius: 4rem;
@@ -82,7 +82,7 @@ nav{
     text-align: center;
 }
 .template{
-    margin: 4rem;
+    margin: 1rem;
     padding: 1rem;
 }
 .template img {
@@ -139,7 +139,7 @@ nav{
     width: 100%;
 }
 .q-c {
-    margin: 13rem 4rem;
+    margin: 10rem 4rem;
     padding: 0;
 }
 .quotes {
@@ -179,8 +179,8 @@ nav{
 }
 .get_access {
     max-width: 100%;
-    padding: 5rem;
-    margin: 1rem 2rem;
+    padding: 1.5rem;
+    margin: 0 2rem;
     text-align: center;
     background-color: hsl(219, 30%, 18%);
     color: hsl(0, 0%, 100%);
@@ -211,9 +211,8 @@ button{
 }
 .footer{
     width: 100%;
-    padding: 0 3rem;
+    padding: 0 2rem;
     background-color: hsl(216, 53%, 9%);
-    background-position: bottom;
 }
 .footer .logo{
     padding: 1rem;
@@ -227,11 +226,6 @@ button{
     align-items: center;
     justify-content: space-around;
 }
-/* .content1{
-    margin: 1rem;
-} */
-
-/*    */
 .footer_content img{
     margin-right: 4rem;
     height: 1.5rem;
@@ -244,6 +238,7 @@ button{
     width: 100%;
     padding: 1rem;
     text-align: left;
+    line-height: 2.5rem;
     margin: 1rem;
 }
 .icons{
