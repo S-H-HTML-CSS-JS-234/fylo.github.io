@@ -214,6 +214,9 @@ button{
     cursor: pointer;
     width: 100%;
 }
+.button:hover{
+    background-color: hsl(198, 60%, 50%);
+}
 .footer{
     width: 100%;
     padding: 0 2rem;
